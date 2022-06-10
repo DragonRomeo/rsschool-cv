@@ -1,1 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Poppins:ital@1&display=swap');
+/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Montserrat', sans-serif; */
+
+
+/*              White Side              */
+.name {
+  font-size: 150px;
+  line-height: 208px;
+  color: #2d2f31;
+  font-weight: 400;
+  font-family: "Poppins";
+}
+
+.profession {
+  font-size: 67px;
+  line-height: 58px;
+  color: #2d2f31;
+  background-color: #ebebeb;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+  
+}
+
+
+.h2 {
+  font-size: 75px;
+  letter-spacing: 8px;
+  line-height: 58px;
+  color: #2d2f31;
+  font-weight: 600;
+  font-family: "Poppins";
+}
+
+.bold {
+  font-size: 42px;
+  line-height: 67px;
+  color: #2d2f31;
+  font-weight: 500;
+  font-family: "Poppins";
+}
+
+.p {
+  width: 614px;
+  height: 126px;
+  font-size: 42px;
+  line-height: 67px;
+  color: #2d2f31;
+  font-weight: 300;
+  font-family: "Poppins";
+}
+
+
+.white {
+    color: #ffffff;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+}
+
 
