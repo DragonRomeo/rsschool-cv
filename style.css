@@ -1,15 +1,57 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Poppins:ital@1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Poppins:ital@1&display=swap");
 /* font-family: 'Poppins', sans-serif; */
 /* font-family: 'Montserrat', sans-serif; */
 
+.body {
+    font-family: 'Poppins', sans-serif;
+    max-width: 1440px;
 
-/*              White Side              */
+    display: flex;
+    flex-direction: column;
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  /* Благодаря свойству box-sizing: border-box; границы и внутренние отступы
+   будут учитываться в значениях, которые вы указываете в ширине и высоте элемента. 
+   Это упрощает работу с размерами, позволяет указывать их более логично */
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+  align-items: center;
+
+  background-color: #2d2f31;
+  height: 50px;
+
+  font-size: 15px;
+  letter-spacing: 2px;
+  line-height: 58px;
+  font-weight: 600;
+  font-family: "Poppins";
+}
+
+.nav-link {
+  color: #ebebeb;
+  text-decoration: none;
+}
+
 .name {
-  font-size: 150px;
-  line-height: 208px;
+  font-size: 64px;
+  line-height: 40px;
   color: #2d2f31;
   font-weight: 400;
   font-family: "Poppins";
+}
+
+.avatar {
+    width: 200px;
+    height: 334px;
 }
 
 .profession {
@@ -20,9 +62,7 @@
   font-weight: 500;
   font-family: "Montserrat";
   text-align: center;
-  
 }
-
 
 .h2 {
   font-size: 75px;
@@ -42,26 +82,22 @@
 }
 
 .p {
-  width: 614px;
-  height: 126px;
-  font-size: 42px;
-  line-height: 67px;
+  
+  font-size: 16px;
+  /* line-height: 67px; */
   color: #2d2f31;
   font-weight: 300;
   font-family: "Poppins";
 }
 
-
 .white {
-    color: #ffffff;
+  color: #ffffff;
 }
 .main-container {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .section {
-    width: 50%;
+  width: 50%;
 }
-
-
