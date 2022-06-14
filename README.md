@@ -1,2 +1,3 @@
-# rssschool-cv
-take 3
+# rsschool-cv
+https://DragonRomeo.github.io/rsschool-cv/
+https://DragonRomeo.github.io/rsschool-cv/cv
