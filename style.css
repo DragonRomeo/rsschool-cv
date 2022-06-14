@@ -73,7 +73,7 @@ html {
 
 .container-black {
   background-color: #2d2f31;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   width: 26%;
 
   display: flex;
@@ -85,7 +85,7 @@ html {
 
 .container-white {
   background-color: #ffffff;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   width: 74%;
 
   display: flex;
