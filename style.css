@@ -50,6 +50,13 @@ html {
   text-decoration: none;
   cursor: pointer;
 }
+
+.nav-link2 {
+  color:#2d2f31;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .nav-link:hover {
   transition: 0.5s;
   color: darkgray;
@@ -161,7 +168,8 @@ html {
   flex-direction: row;
   list-style: none;
   justify-content: space-around;
-  background-color: #2d2f31;
+  color: #2d2f31;
+  /* background-color: #2d2f31; */
   /* align-items: center; */
   height: 50px;
 }
