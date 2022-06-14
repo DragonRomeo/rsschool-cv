@@ -74,7 +74,7 @@ html {
 .container-black {
   background-color: #2d2f31;
   min-height: 100vh;
-  width: 24%;
+  width: 26%;
 
   display: flex;
   flex-direction: column;
@@ -86,7 +86,7 @@ html {
 .container-white {
   background-color: #ffffff;
   min-height: 100vh;
-  width: 76%;
+  width: 74%;
 
   display: flex;
   flex-direction: column;
@@ -102,7 +102,7 @@ html {
 }
 
 .avatar {
-  width: 268px;
+  width: 296px;
   height: 432px;
   /* border-radius: 8px; */
   border: 1px solid #ddd;
