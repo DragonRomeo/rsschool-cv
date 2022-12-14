@@ -177,5 +177,9 @@ html {
 
 .rss-img {
   width: 100px;
-  height: 100px;
+  height: 40px;
+}
+
+.english {
+  margin-bottom: 40px;
 }
