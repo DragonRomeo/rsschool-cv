@@ -28,7 +28,6 @@ function getParticipants(handshakes) {
             }
 ```
 
-
 ### English_
 * B1 - B2 intermediate
 
