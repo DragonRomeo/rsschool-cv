@@ -30,7 +30,7 @@ function getParticipants(handshakes) {
 
 
 ### English_
-B1 - B2 intermediate
+* B1 - B2 intermediate
 
 ### Education_
-Voronezh State Technical University
+* Voronezh State Technical University
