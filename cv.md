@@ -26,7 +26,6 @@
                 return humans;
             }```
 
-
 ### English_
 * B1 - B2 intermediate
 
