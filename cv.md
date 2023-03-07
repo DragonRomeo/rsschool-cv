@@ -20,13 +20,11 @@
 * Figma
 
 ### Code_
-```
-function getParticipants(handshakes) {
+```function getParticipants(handshakes) {
                 let humans = 1;
                 for (let i = 0; i < handshakes; i += humans++);
                 return humans;
-            }
-```
+            }```
 
 
 ### English_
